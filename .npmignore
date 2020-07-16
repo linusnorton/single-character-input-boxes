@@ -5,3 +5,5 @@ src/
 readMeMedia/
 .eslintrc
 package-lock.json
+.cache
+node_modules/
